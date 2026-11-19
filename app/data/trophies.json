@@ -1,0 +1,1228 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "list": "the official 55 trophies, 2026-11-18",
+ "trophies": [
+  {
+   "id": 1,
+   "name": "Vice Got a Price!",
+   "description": "Congratulations! You're a Leonida Legend.",
+   "grade": "platinum",
+   "guide": "The platinum pops the moment the other 54 trophies are yours — there is no separate task to it. Work the roadmap in order: story first with the Chapter 1 save habit, then the stranger strands, then activities and collectibles, and save the long grinds for last. Expect around 200 hours in total, at a gentle difficulty of about 4 out of 10, with no online, difficulty or mission-medal trophies in the way.",
+   "steps": [
+    "Follow the Platinum Road in this guide — story, strands, activities, then cleanup.",
+    "Keep a manual save at the start of every chapter and one untouched save before the final mission.",
+    "Finish the story, then the 8 stranger strands, then activities and collectibles.",
+    "Clear the grind trophies last (250 stunts, 100 vehicles, 100 WAiNK scans, 50 challenges).",
+    "The platinum pops automatically once the other 54 are earned."
+   ],
+   "kind": "story",
+   "missable": "no",
+   "missable_note": "Pops automatically by finishing the story — cannot be missed.",
+   "difficulty": 2,
+   "time": "~200 h total",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 2,
+   "name": "Just Like Paradise",
+   "description": "Complete Gone Fishing.",
+   "grade": "bronze",
+   "guide": "The opening mission, Gone Fishing, is the first thing you play — just follow the on-screen objectives and the trophy pops when the mission ends. Nothing here can be missed; it is the game's way of saying welcome to Leonida.",
+   "steps": [
+    "Start a new game and play through the opening.",
+    "Follow the objective markers through Gone Fishing.",
+    "Finish the mission — the trophy pops at the end."
+   ],
+   "kind": "story",
+   "missable": "no",
+   "missable_note": "Pops automatically by finishing the story — cannot be missed.",
+   "difficulty": 1,
+   "time": "story",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 3,
+   "name": "Paradise Lost",
+   "description": "Complete Chapter 1.",
+   "grade": "bronze",
+   "guide": "Finish every mission in Chapter 1 and this bronze is yours. But before you leave the chapter, do the one thing that cannot wait: meditate on Lucia's balcony, the game's only missable trophy (#28 Positive Mental Attitude). The balcony spot disappears once Chapter 1 ends, and there is no mission replay to go back.",
+   "steps": [
+    "Play through all Chapter 1 missions in order.",
+    "Before the chapter ends, meditate on Lucia's balcony (trophy #28).",
+    "Make a manual save at the start of Chapter 2, so the chapter is never lost."
+   ],
+   "kind": "story",
+   "missable": "no",
+   "missable_note": "Pops automatically by finishing the story — cannot be missed.",
+   "difficulty": 1,
+   "time": "story",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 4,
+   "name": "T**s Ass Drug Money",
+   "description": "Complete Chapter 2.",
+   "grade": "bronze",
+   "guide": "Complete Chapter 2 and the trophy pops at its final beat. A useful unlock hides in this chapter: after the mission Daily Driver, garages open for purchase in the Vice City Real Estate app — the first step toward the Little Boxes trophy (#54).",
+   "steps": [
+    "Play through all Chapter 2 missions in order.",
+    "After the mission Daily Driver, garages open in the Vice City Real Estate app.",
+    "Make a manual save at the start of Chapter 3."
+   ],
+   "kind": "story",
+   "missable": "no",
+   "missable_note": "Pops automatically by finishing the story — cannot be missed.",
+   "difficulty": 1,
+   "time": "story",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Vice City, Baby!",
+   "description": "Complete Chapter 3.",
+   "grade": "bronze",
+   "guide": "Complete Chapter 3 and the trophy pops. Two things deserve attention while you are here: the street-racing strand 'Race Against Yago' is time-sensitive — do it as soon as its hourglass icon appears, and save first — and the mission Yasmani's Jewelry Jobs hands you the Snap Gun you will need for the Sneakthief trophy (#39).",
+   "steps": [
+    "Play through all Chapter 3 missions in order.",
+    "When the 'Race Against Yago' hourglass icon appears, save first, then race it right away.",
+    "Finish Yasmani's Jewelry Jobs to pick up the Snap Gun for trophy #39.",
+    "Make a manual save at the start of Chapter 4."
+   ],
+   "kind": "story",
+   "missable": "no",
+   "missable_note": "Pops automatically by finishing the story — cannot be missed.",
+   "difficulty": 1,
+   "time": "story",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Top Of The World, Ma",
+   "description": "Complete Chapter 4.",
+   "grade": "bronze",
+   "guide": "Complete Chapter 4 and the trophy pops. Near the end of this chapter an optional mission, 'That's Where The Money Is', opens bank vault robberies — the doorway to the Maximum Withdrawal trophy (#40) and a natural 4-star wanted level for Hot Together (#33).",
+   "steps": [
+    "Play through all Chapter 4 missions in order.",
+    "Take the optional mission 'That's Where The Money Is' when it appears — it opens bank vaults.",
+    "Keep one untouched manual save before the final mission."
+   ],
+   "kind": "story",
+   "missable": "no",
+   "missable_note": "Pops automatically by finishing the story — cannot be missed.",
+   "difficulty": 1,
+   "time": "story",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 7,
+   "name": "You Gotta Know When to Get Off",
+   "description": "Complete the final mission.",
+   "grade": "gold",
+   "guide": "Finish the final mission and this gold trophy pops at the credits. There is no mission replay and no New Game Plus, so keep one untouched manual save from before the final mission — it is your only way back to anything you left unfinished in the story.",
+   "steps": [
+    "Keep one untouched manual save from before the final mission.",
+    "Play the final mission through to the end.",
+    "The trophy pops at the credits."
+   ],
+   "kind": "story",
+   "missable": "no",
+   "missable_note": "Pops automatically by finishing the story — cannot be missed.",
+   "difficulty": 2,
+   "time": "story",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 8,
+   "name": "Trust",
+   "description": "Complete Breakfast Run.",
+   "grade": "bronze",
+   "guide": "Complete the story mission Breakfast Run. Named story missions pop their trophy the moment the mission ends, so the only job is to play it through — follow the objective markers and finish what the mission asks.",
+   "steps": [
+    "Play Breakfast Run when it appears in the story.",
+    "Follow the objective markers through the mission.",
+    "Finish the mission — the trophy pops at the end."
+   ],
+   "kind": "mission",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 1,
+   "time": "story",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 9,
+   "name": "Break the Bank",
+   "description": "Complete The Cartel Heist.",
+   "grade": "bronze",
+   "guide": "Complete the story mission The Cartel Heist. Heist missions tend to be longer and louder than the average job, so stock up on ammo and armour before it starts, then follow the plan the mission lays out.",
+   "steps": [
+    "Stock up on ammo and armour before the mission starts.",
+    "Play The Cartel Heist when it appears in the story.",
+    "Follow the objective markers and finish the mission."
+   ],
+   "kind": "mission",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "story",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 10,
+   "name": "Family Matters",
+   "description": "Complete Child's Play.",
+   "grade": "bronze",
+   "guide": "Complete the story mission Child's Play. Like every named story mission, the trophy is simply for finishing it — play it through and the bronze pops at the end.",
+   "steps": [
+    "Play Child's Play when it appears in the story.",
+    "Follow the objective markers through the mission.",
+    "Finish the mission — the trophy pops at the end."
+   ],
+   "kind": "mission",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 1,
+   "time": "story",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 11,
+   "name": "DWNFALL",
+   "description": "Complete Headliners.",
+   "grade": "bronze",
+   "guide": "Complete the story mission Headliners. Expect a set-piece mission with a clear objective chain — keep moving with the markers and the trophy pops when the last objective clears.",
+   "steps": [
+    "Play Headliners when it appears in the story.",
+    "Follow the objective markers through the mission.",
+    "Finish the mission — the trophy pops at the end."
+   ],
+   "kind": "mission",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "story",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Hi-Jacked",
+   "description": "Complete VCIA Takedown.",
+   "grade": "bronze",
+   "guide": "Complete the story mission VCIA Takedown. The airport setting is worth remembering: you will come back to VCIA on your own for the Catch Me If You Can trophy (#37), stealing a plane from gate E3 or E4.",
+   "steps": [
+    "Play VCIA Takedown when it appears in the story.",
+    "Follow the objective markers through the mission.",
+    "Finish the mission — the trophy pops at the end.",
+    "Remember the airport layout: VCIA gates E3/E4 matter again for trophy #37."
+   ],
+   "kind": "mission",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "story",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 13,
+   "name": "Snow Storm",
+   "description": "Complete Operation Savage Glory.",
+   "grade": "bronze",
+   "guide": "Complete the story mission Operation Savage Glory. It is one of the bigger named operations in the story, so go in supplied — armour, ammo and a full weapon wheel — then follow the objectives to the end.",
+   "steps": [
+    "Stock up on armour and ammo before the mission starts.",
+    "Play Operation Savage Glory when it appears in the story.",
+    "Follow the objective markers and finish the mission."
+   ],
+   "kind": "mission",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "story",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 14,
+   "name": "A Long Road",
+   "description": "Attain 100% Completion.",
+   "grade": "gold",
+   "guide": "Attain 100% completion — the second gold, and the real endgame. The 100% checklist only appears in Progress > Stats > 100% Completion after the story, but work done earlier still counts. The verified demands: all 39 illegal operations, 8 bank vaults, 300 stunts, 70 of 80 challenges and 200 of 277 vehicles, plus the story, the strands and the rest of the checklist.",
+   "steps": [
+    "Finish the story first — the 100% checklist appears in Progress > Stats after the credits.",
+    "Work through the checklist: story, strands, activities, collectibles, stunts, vehicles, challenges.",
+    "100% needs every illegal operation (39), every bank vault (8), 300 stunts, 70 challenges and 200 vehicles.",
+    "Check the in-game counter after each activity so nothing is left behind.",
+    "The trophy pops the moment the checklist hits 100%."
+   ],
+   "kind": "story",
+   "missable": "no",
+   "missable_note": "Pops automatically by finishing the story — cannot be missed.",
+   "difficulty": 4,
+   "time": "grind / ~200 h",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 15,
+   "name": "Cunning Stunts",
+   "description": "Complete 250 Stunts.",
+   "grade": "silver",
+   "guide": "Pull off 250 stunts — jumps, near-misses, airtime and other driving show-offs, all counted as you play. 100% completion wants 300, so keep going past the pop. The fastest farming is a fast car on long highway runs, using ramps and jumps to chain airtime and near-misses with traffic.",
+   "steps": [
+    "Drive fast and take jumps — every stunt the game registers counts.",
+    "Use highways and ramps for long airtime; near-misses on traffic add up too.",
+    "Check Progress > Stats to watch the stunt counter climb.",
+    "250 stunts pops the trophy; 300 are needed for 100% completion."
+   ],
+   "kind": "activity",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 3,
+   "time": "2–4 h",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 16,
+   "name": "Master of None",
+   "description": "Try each type of activity once.",
+   "grade": "bronze",
+   "guide": "Try each type of activity once — fishing, races, the shooting range, arcade games, bowling and the rest of what the map offers. Do not trust a number here: the exact count of activity types is not verified by public sources, so just try everything until the trophy pops.",
+   "steps": [
+    "Open the map and visit every activity icon you can find.",
+    "Try each one once — fishing, a race, the shooting range, an arcade game, bowling.",
+    "The trophy pops as soon as the last untried type is sampled.",
+    "If it has not popped, look for an activity icon you have not visited yet."
+   ],
+   "kind": "activity",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "1–2 h",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 17,
+   "name": "The Shootist",
+   "description": "Earn a gold medal in all Shooting Range challenges.",
+   "grade": "silver",
+   "guide": "Earn a gold medal in all 42 Shooting Range challenges across the two ranges — the hardest silver in the game for most players. Learn each challenge's weapon and target pattern first at a slower pace, then chase gold times and scores; steady aim beats spraying.",
+   "steps": [
+    "Find both shooting ranges on the map.",
+    "Work through the challenges, learning each one's weapon and target pattern.",
+    "Earn gold in all 42 challenges — 2 ranges, 42 golds in total.",
+    "If a challenge stalls, slow down, aim deliberately and re-try."
+   ],
+   "kind": "activity",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 4,
+   "time": "3–5 h",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 18,
+   "name": "Top Fun",
+   "description": "Win a Top Fun Drone Race at every location.",
+   "grade": "bronze",
+   "guide": "Win a Top Fun drone race at every one of the 14 locations. Drones handle like nothing else in the game, so spend the first race learning the controls, then chase wins — each location counts once, and the trophy pops after the 14th win.",
+   "steps": [
+    "Find the Top Fun drone race markers — 14 locations across Leonida.",
+    "Learn the drone controls in the first race; speed and tight corners matter.",
+    "Win at every location; the trophy pops after the 14th win."
+   ],
+   "kind": "activity",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 3,
+   "time": "2–3 h",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 19,
+   "name": "Earn Cash, Not Kudos",
+   "description": "Win 20 different races.",
+   "grade": "bronze",
+   "guide": "Win 20 different races — street races, off-road, boat and air races all count, but each race only counts once. Vary the race types and keep a list of the ones you have won; repeating the same race does not add to the 20.",
+   "steps": [
+    "Open the race markers across the map — street, off-road, water and air.",
+    "Win a race, then move to a new one; repeats do not count.",
+    "Keep track of the races you have already won.",
+    "The trophy pops on the 20th different race win."
+   ],
+   "kind": "activity",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 3,
+   "time": "3–4 h",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 20,
+   "name": "Baited My Tackle",
+   "description": "Beat Cal in a fishing challenge.",
+   "grade": "bronze",
+   "guide": "Beat Cal in a fishing challenge. Cal is the fishing rival, and fishing is a timing game: watch the line tension, reel steadily, and never let the fish snap the line. A lost fish just means another cast.",
+   "steps": [
+    "Find a fishing spot and take on the fishing challenge against Cal.",
+    "Reel steadily and watch the tension — a snapped line ends the run.",
+    "Beat Cal's catch to win the challenge.",
+    "The trophy pops when the challenge ends in your favour."
+   ],
+   "kind": "activity",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "30 min",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 21,
+   "name": "Stick Fiddler",
+   "description": "Complete an arcade game.",
+   "grade": "bronze",
+   "guide": "Complete an arcade game. Arcades are scattered around Vice City — pick the game you are best at and play one full run through to the end.",
+   "steps": [
+    "Find an arcade in Vice City.",
+    "Pick any game and play a full run through to the end.",
+    "The trophy pops when the game is completed."
+   ],
+   "kind": "activity",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 1,
+   "time": "30 min",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 22,
+   "name": "Road to Rehabilitation",
+   "description": "Complete the final mission for Andy.",
+   "grade": "bronze",
+   "guide": "Complete the final mission for Andy. Stranger strands unlock as the story opens up the map, so check back for Andy's marker between story missions and play his jobs in order until the finale.",
+   "steps": [
+    "Find Andy's strand marker on the map.",
+    "Play through Andy's missions in order.",
+    "Finish his final mission — the trophy pops at the end."
+   ],
+   "kind": "stranger",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "story + strands",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 23,
+   "name": "This Was No Boat Accident",
+   "description": "Complete the final mission for Kenton.",
+   "grade": "bronze",
+   "guide": "Complete the final mission for Kenton. Like the other stranger finales, this is the last job in Kenton's strand — play his missions in order and the trophy pops when the finale ends.",
+   "steps": [
+    "Find Kenton's strand marker on the map.",
+    "Play through Kenton's missions in order.",
+    "Finish his final mission — the trophy pops at the end."
+   ],
+   "kind": "stranger",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "story + strands",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 24,
+   "name": "The Lone Rider",
+   "description": "Complete the final mission for Billy.",
+   "grade": "bronze",
+   "guide": "Complete the final mission for Billy. Billy's strand is one of the three that does NOT count toward the Strangers & Freaks trophy (#25) — it has its own trophy instead, so play it for itself.",
+   "steps": [
+    "Find Billy's strand marker on the map.",
+    "Play through Billy's missions in order.",
+    "Finish his final mission — the trophy pops at the end.",
+    "Note: Billy's strand does not count toward trophy #25."
+   ],
+   "kind": "stranger",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "story + strands",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 25,
+   "name": "Strangers & Freaks",
+   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+   "grade": "silver",
+   "guide": "Complete 8 mission strands for strangers across Leonida. Note: the Andy, Billy and Tyrone strands have their own trophies and do NOT count toward this one — so you need 8 strands beyond those three. Check the progress counter after each strand finishes. And do the Chapter 3 street-racing strand 'Race Against Yago' as soon as its hourglass icon appears: it is time-sensitive, and it feeds this trophy.",
+   "steps": [
+    "Play stranger strands as their markers appear across Leonida.",
+    "Andy, Billy and Tyrone strands do NOT count toward the 8 — they have their own trophies.",
+    "Watch the strand progress counter after each one finishes.",
+    "Do the Chapter 3 'Race Against Yago' strand as soon as it appears — it is time-sensitive.",
+    "The trophy pops after the 8th qualifying strand."
+   ],
+   "kind": "stranger",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 3,
+   "time": "4–6 h",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 26,
+   "name": "Supply & Demand",
+   "description": "Complete the final mission for Randy.",
+   "grade": "bronze",
+   "guide": "Complete the final mission for Randy. Play Randy's strand missions in order, checking back for his marker between story missions, and the trophy pops when his finale ends.",
+   "steps": [
+    "Find Randy's strand marker on the map.",
+    "Play through Randy's missions in order.",
+    "Finish his final mission — the trophy pops at the end."
+   ],
+   "kind": "stranger",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "story + strands",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 27,
+   "name": "Spin On This!",
+   "description": "Complete the final mission for Tyrone.",
+   "grade": "bronze",
+   "guide": "Complete the final mission for Tyrone. Tyrone's strand is one of the three that does NOT count toward the Strangers & Freaks trophy (#25) — it has its own trophy instead, so play it for itself.",
+   "steps": [
+    "Find Tyrone's strand marker on the map.",
+    "Play through Tyrone's missions in order.",
+    "Finish his final mission — the trophy pops at the end.",
+    "Note: Tyrone's strand does not count toward trophy #25."
+   ],
+   "kind": "stranger",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "story + strands",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 28,
+   "name": "Positive Mental Attitude",
+   "description": "Meditate at every spot across Leonida.",
+   "grade": "bronze",
+   "guide": "Meditate at every one of the 18 spots across Leonida — and do Lucia's balcony meditation in Chapter 1 before that chapter ends, because that spot disappears and there is no mission replay. Meditation spots show a purple icon when you are close; outdoor spots count double if you meditate with your partner, so bring them along every time.",
+   "steps": [
+    "In Chapter 1, meditate on Lucia's balcony before the chapter ends — this is the game's only missable trophy.",
+    "Keep a Chapter 1 manual save as insurance.",
+    "Find the other 17 spots — a purple icon appears when you are close.",
+    "Bring your partner: outdoor spots count double when you meditate together.",
+    "The trophy pops after all 18 spots."
+   ],
+   "kind": "activity",
+   "missable": "yes",
+   "missable_note": "THE ONLY missable trophy. Lucia's balcony meditation in Chapter 1 disappears once that chapter ends; there is no mission replay, so a Chapter 1 manual save is the insurance. Sources: outputlag, keengamer, gtavibes.",
+   "difficulty": 2,
+   "time": "2–3 h",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)",
+    "outputlag + keengamer + gtavibes agree: the 1 potentially missable trophy"
+   ]
+  },
+  {
+   "id": 29,
+   "name": "Fair Game",
+   "description": "Hunt a unique animal for Bret.",
+   "grade": "bronze",
+   "guide": "Hunt a unique animal for Bret. Bret's job sends you into the wilds outside the city to track one particular animal — the exact marker is not confirmed by public sources yet, so follow the in-game objective marker once the hunt begins.",
+   "steps": [
+    "Find Bret's hunting strand and take the job.",
+    "Track the unique animal — follow the objective marker into the wilds.",
+    "Take the shot and bring the hunt home.",
+    "The trophy pops when the hunt is complete."
+   ],
+   "kind": "collectible",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "1–2 h",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 30,
+   "name": "Don't Touch My Deck",
+   "description": "Complete 3 Collectible Card sets.",
+   "grade": "silver",
+   "guide": "Complete 3 collectible card sets. Cards are hidden across Leonida, so sweep the map methodically and check the collection screen to see which sets are still missing cards — then hunt the gaps, not the cards you already have.",
+   "steps": [
+    "Pick up collectible cards as you explore — check the collection screen for set progress.",
+    "Sweep areas you have not fully explored; cards hide in quiet corners.",
+    "Complete any 3 full sets.",
+    "The trophy pops when the third set is complete."
+   ],
+   "kind": "collectible",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 3,
+   "time": "3–5 h",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 31,
+   "name": "You WAiNKer!",
+   "description": "WAiNK It at 100 locations.",
+   "grade": "silver",
+   "guide": "Use the WAiNK app to scan at 100 locations — the app counts each new spot, and vehicle scans through WAiNK count toward the 200 vehicles needed for 100% too. Make scanning a habit every time you enter a new area.",
+   "steps": [
+    "Open the WAiNK app whenever you reach a new location.",
+    "Scan each spot once — 100 distinct locations are needed.",
+    "Vehicle scans through WAiNK also count toward the vehicle total for 100%.",
+    "The trophy pops at the 100th location."
+   ],
+   "kind": "collectible",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 3,
+   "time": "4–6 h",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 32,
+   "name": "One Last Thing",
+   "description": "Complete 50 Challenges.",
+   "grade": "bronze",
+   "guide": "Complete 50 challenges — the game tracks 80 in total, and 100% completion wants 70, so this trophy is a milestone on the way, not the end. Challenges cover driving, combat, exploration and more; open the challenge list and clear the easy ones first.",
+   "steps": [
+    "Open the challenge list in Progress and sort by what is closest to done.",
+    "Clear the easy challenges first — driving, combat and exploration.",
+    "50 completed pops the trophy; keep going to 70 for 100%.",
+    "Check the counter after each session so nothing stalls."
+   ],
+   "kind": "collectible",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 3,
+   "time": "grind",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 33,
+   "name": "Hot Together",
+   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+   "grade": "bronze",
+   "guide": "Lose a 4-star wanted level with your partner and escape the heat. Bank vault robberies hand you a 4-star wanted level on a plate — rob a vault with your partner beside you, then escape together and this pops alongside the vault trophy.",
+   "steps": [
+    "Play with your partner beside you.",
+    "Build a 4-star wanted level — a bank vault robbery does it naturally.",
+    "Break line of sight and lose the heat while your partner is still with you.",
+    "The trophy pops when the wanted level clears."
+   ],
+   "kind": "crime",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "30 min",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 34,
+   "name": "Retail Therapy",
+   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+   "grade": "bronze",
+   "guide": "Rob 3 shops back-to-back with your partner without losing your wanted level. Plan a route of three close shops, hit them fast, and keep moving — if the wanted level drops between robberies, the chain breaks and you start over.",
+   "steps": [
+    "Pick three shops close together and plan the route.",
+    "Rob the first shop with your partner beside you.",
+    "Move straight to the next — do not lose the wanted level between shops.",
+    "Rob the third and the trophy pops."
+   ],
+   "kind": "crime",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 3,
+   "time": "30 min",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 35,
+   "name": "Whip It Good",
+   "description": "Discover 100 vehicles.",
+   "grade": "bronze",
+   "guide": "Discover 100 vehicles — get in, drive, or scan them with the WAiNK app and the game logs each new model. 100% completion wants 200 of the 277 vehicles, so keep discovering after the pop.",
+   "steps": [
+    "Drive or scan every new vehicle you see — the WAiNK app logs scans.",
+    "Vary the vehicles: cars, bikes, boats and aircraft all count.",
+    "100 discovered pops the trophy; 200 are needed for 100%.",
+    "Check the vehicle list to see which models you still miss."
+   ],
+   "kind": "collectible",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "2–4 h",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 36,
+   "name": "Gunslinger",
+   "description": "Take down 5 enemies in a single use of Combat Focus.",
+   "grade": "bronze",
+   "guide": "Take down 5 enemies in a single use of Combat Focus — press L3+R3 while aiming to trigger it, then drop five enemies before the focus ends. Pick a busy fight with weak enemies grouped together, and do not waste the focus on a single target.",
+   "steps": [
+    "Get into a fight with at least five enemies close together.",
+    "Aim, then press L3+R3 to trigger Combat Focus.",
+    "Drop five enemies before the focus runs out.",
+    "The trophy pops on the fifth takedown in that single use."
+   ],
+   "kind": "crime",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 3,
+   "time": "30 min",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 37,
+   "name": "Catch Me If You Can",
+   "description": "Make an unscheduled departure at VCIA.",
+   "grade": "bronze",
+   "guide": "Make an unscheduled departure at VCIA: steal a passenger plane from a boarding bridge at gate E3 or E4 and fly about a kilometre away from the airport. Board fast, take off before security swarms you, and keep the plane level until the trophy pops.",
+   "steps": [
+    "Go to VCIA and reach a boarding bridge at gate E3 or E4.",
+    "Steal a passenger plane and get it moving.",
+    "Take off and fly about 1 km from the airport.",
+    "The trophy pops once you are clear of the airport."
+   ],
+   "kind": "crime",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "30 min",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 38,
+   "name": "Challenging Tank",
+   "description": "Kinda hot in these Rhinos.",
+   "grade": "bronze",
+   "guide": "Kinda hot in these Rhinos — deal with the tanks stationed on the south side of Mile Zero Air Station, on the south-west island. Bring heavy weapons or sticky bombs, keep your distance, and mind the soldiers guarding them.",
+   "steps": [
+    "Travel to Mile Zero Air Station on the south-west island.",
+    "Find the Rhinos on the south side of the base.",
+    "Take them on with heavy weapons — keep moving and use cover.",
+    "The trophy pops when the tank encounter is done."
+   ],
+   "kind": "crime",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "30 min",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 39,
+   "name": "Sneakthief",
+   "description": "Rob a jewelry store without being detected.",
+   "grade": "bronze",
+   "guide": "Rob a jewelry store without being detected. You need the Snap Gun from the Chapter 3 mission Yasmani's Jewelry Jobs — target Richardson Jewelry & Diamonds, move quietly, and never kick the door: the alarm ends the run.",
+   "steps": [
+    "First finish Yasmani's Jewelry Jobs in Chapter 3 to get the Snap Gun.",
+    "Go to Richardson Jewelry & Diamonds with the Snap Gun ready.",
+    "Enter quietly — do not kick the door, or the alarm trips.",
+    "Take the goods and leave without being detected."
+   ],
+   "kind": "crime",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 3,
+   "time": "30 min",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 40,
+   "name": "Maximum Withdrawal",
+   "description": "Rob 5 Bank Vaults and escape.",
+   "grade": "silver",
+   "guide": "Rob 5 bank vaults and escape — 100% completion wants 8. Vaults open up through the optional end-of-Chapter-4 mission 'That's Where The Money Is': follow the security van, bring your partner, and expect a 4-star wanted level — escaping with your partner also earns Hot Together (#33).",
+   "steps": [
+    "Finish the optional Chapter 4 mission 'That's Where The Money Is' to open vault robberies.",
+    "Follow the security van to the vault — bring your partner.",
+    "Rob the vault and escape the 4-star wanted level with your partner beside you.",
+    "Repeat for 5 vaults; the trophy pops after the fifth escape."
+   ],
+   "kind": "crime",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 3,
+   "time": "2–3 h",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 41,
+   "name": "A Classic Blitz Play",
+   "description": "Rob an Armored Truck and escape.",
+   "grade": "bronze",
+   "guide": "Rob an armored truck and escape. Armored trucks run set routes around the city — intercept one, stop it, take the cash and break away before the police box you in.",
+   "steps": [
+    "Find an armored truck on its route.",
+    "Stop the truck and take the cash.",
+    "Break away from the police and escape.",
+    "The trophy pops once you are clear."
+   ],
+   "kind": "crime",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "30 min",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 42,
+   "name": "The Goodtime State",
+   "description": "Explore all of Leonida.",
+   "grade": "bronze",
+   "guide": "Explore all of Leonida — drive, fly and walk the whole map until the game says it is all discovered. Do not trust a number here: the area count is not verified by public sources, so use the in-game map completion as your guide.",
+   "steps": [
+    "Drive through every region of the map, including the islands and the wilds.",
+    "Use a plane or helicopter for remote corners.",
+    "Watch the map fill in — the trophy pops when every area is discovered."
+   ],
+   "kind": "collectible",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "3–5 h",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 43,
+   "name": "Pest Control",
+   "description": "Rob an Illegal Operation belonging to each gang.",
+   "grade": "bronze",
+   "guide": "Rob an illegal operation belonging to each of the 9 gangs. There are 39 illegal operations in total and 100% completion wants all of them, so this trophy is the first sweep of that job — hit one operation per gang, then keep going.",
+   "steps": [
+    "Find illegal operations on the map — 39 in total across 9 gangs.",
+    "Rob one operation for each gang.",
+    "The trophy pops once all 9 gangs have been hit.",
+    "Keep robbing: all 39 operations are needed for 100%."
+   ],
+   "kind": "collectible",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 3,
+   "time": "3–5 h",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 44,
+   "name": "In The Beginning…",
+   "description": "Enjoy a cocktail with a view on Ocean Beach.",
+   "grade": "bronze",
+   "guide": "Enjoy a cocktail with a view on Ocean Beach. Head to a beachfront bar on Ocean Beach, order a cocktail, and take in the view — a quiet moment the game rewards.",
+   "steps": [
+    "Go to Ocean Beach and find a beachfront bar.",
+    "Order a cocktail.",
+    "Enjoy the view — the trophy pops as you drink it in."
+   ],
+   "kind": "secret",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 1,
+   "time": "15 min",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 45,
+   "name": "Capital Offense",
+   "description": "Smash your way out of a vehicle showroom in classic style.",
+   "grade": "bronze",
+   "guide": "Smash your way out of a vehicle showroom in classic style. Pick a showroom, get in a car, and drive straight through the glass — the game wants the dramatic exit.",
+   "steps": [
+    "Find a vehicle showroom.",
+    "Get behind the wheel inside the showroom.",
+    "Drive out through the front in classic style.",
+    "The trophy pops as you smash through."
+   ],
+   "kind": "secret",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 1,
+   "time": "15 min",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 46,
+   "name": "Let’s Go Bowling",
+   "description": "Follow-through at the Kolt & Associates' bowling alley.",
+   "grade": "bronze",
+   "guide": "Follow through at the Kolt & Associates bowling alley. The alley opens through the Chapter 2 illegal operation Kingpin Bowling — sticky bombs and three valuables are part of the job — and the operation comes back, so this is NOT missable. Play a full game once the alley is yours.",
+   "steps": [
+    "Reach Chapter 2 and the Kingpin Bowling illegal operation.",
+    "Take the alley — sticky bombs and three valuables are part of the job.",
+    "Play a full game of bowling at the Kolt & Associates alley.",
+    "The trophy pops when the game is done."
+   ],
+   "kind": "activity",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "30 min",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 47,
+   "name": "Personal Best",
+   "description": "A partnership with mass appeal.",
+   "grade": "bronze",
+   "guide": "A partnership with mass appeal — Jason and Lucia both need max Strength. Buy a gym membership, train together, and build both characters to the top of the Strength stat.",
+   "steps": [
+    "Buy a gym membership.",
+    "Train Strength with both Jason and Lucia — train together where you can.",
+    "Max out Strength on both characters.",
+    "The trophy pops when both hit the top."
+   ],
+   "kind": "secret",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 3,
+   "time": "2–4 h",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 48,
+   "name": "Actions Speak Louder",
+   "description": "Choices made (for better or worse).",
+   "grade": "bronze",
+   "guide": "Choices made, for better or worse — PlayStation tracks 500 actions that change your Criminal Profile. Just play the game making choices: story decisions, side activities and how you handle encounters all feed the count.",
+   "steps": [
+    "Play the story and side content, making choices as they come.",
+    "Side activities and encounters also feed the count.",
+    "Watch the Criminal Profile counter climb toward 500.",
+    "The trophy pops at 500 actions."
+   ],
+   "kind": "secret",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "grind",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 49,
+   "name": "Bad Luck, I Guess",
+   "description": "Second time's the charm.",
+   "grade": "bronze",
+   "guide": "Second time's the charm — this one is about succeeding on a retry. The exact trigger is not confirmed by public sources yet, so follow the in-game objective marker: fail an attempt at something, then succeed on the second try.",
+   "steps": [
+    "Find an activity or challenge with a clear pass/fail.",
+    "Fail the attempt once.",
+    "Succeed on the second try.",
+    "The trophy pops when the retry lands."
+   ],
+   "kind": "secret",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "30 min",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 50,
+   "name": "The Truth Is Out There",
+   "description": "What the hell just happened?",
+   "grade": "bronze",
+   "guide": "What the hell just happened? — witness something strange in Leonida. The exact event is not confirmed by public sources yet; explore the stranger corners of the map and follow any odd marker that appears.",
+   "steps": [
+    "Explore the stranger corners of Leonida — the wilds, the swamps, the quiet roads.",
+    "Follow any odd marker or event that appears.",
+    "Witness the strange event through to its end.",
+    "The trophy pops when the event plays out."
+   ],
+   "kind": "secret",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "1–2 h",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 51,
+   "name": "Ten Pin",
+   "description": "Bowl 'em over with a melee drive-by.",
+   "grade": "bronze",
+   "guide": "Bowl them over with a melee drive-by — knock someone down with a melee attack from a moving vehicle. Line up a slow pass, swing as you go by, and keep the vehicle moving.",
+   "steps": [
+    "Get in a vehicle and find a pedestrian target.",
+    "Line up a slow drive-by pass.",
+    "Swing a melee weapon as you pass.",
+    "The trophy pops when the hit lands."
+   ],
+   "kind": "activity",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "15 min",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 52,
+   "name": "Dime on the Dollar",
+   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+   "grade": "bronze",
+   "guide": "Earn $250,000 laundering Marked Bills through your contacts. Marked Bills come from robberies and heists — hand them to your laundering contacts and the clean money counts toward the $250,000.",
+   "steps": [
+    "Collect Marked Bills from robberies and heists.",
+    "Hand them to your laundering contacts.",
+    "Keep laundering until $250,000 is clean.",
+    "The trophy pops at $250,000 laundered."
+   ],
+   "kind": "money",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 3,
+   "time": "grind",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 53,
+   "name": "Treat Yo Self",
+   "description": "Spend $100,000 across all shops.",
+   "grade": "bronze",
+   "guide": "Spend $100,000 across all shops — clothes, weapons, food, cars, anything the shops sell. It adds up naturally over a full playthrough; if you are close, buy a big-ticket item to finish it.",
+   "steps": [
+    "Spend money in shops as you play — clothes, weapons, vehicles.",
+    "The total counts across all shops.",
+    "If you are close to $100,000, buy a big-ticket item.",
+    "The trophy pops at $100,000 spent."
+   ],
+   "kind": "money",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 1,
+   "time": "grind",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  },
+  {
+   "id": 54,
+   "name": "Little Boxes",
+   "description": "Purchase all garage properties.",
+   "grade": "bronze",
+   "guide": "Purchase all 8 garage properties — about $160,000 in total. Garages are bought through the Vice City Real Estate app, which opens after the Chapter 2 mission Daily Driver. Note: garages earned through the story do NOT count — only bought ones do.",
+   "steps": [
+    "Finish the Chapter 2 mission Daily Driver to open the Vice City Real Estate app.",
+    "Open the app and buy garages — 8 in total, about $160,000.",
+    "Story garages do not count; only bought properties do.",
+    "The trophy pops after the eighth purchase."
+   ],
+   "kind": "money",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 2,
+   "time": "1–2 h",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag",
+    "outputlag.com — GTA 6 Trophy List (18 Nov 2026)"
+   ]
+  },
+  {
+   "id": 55,
+   "name": "On the Spot",
+   "description": "Register 10 vehicles to the Scooter Bros app.",
+   "grade": "bronze",
+   "guide": "Register 10 vehicles to the Scooter Bros app. Find vehicles around the city, register each one in the app, and ten registrations earns the trophy.",
+   "steps": [
+    "Find vehicles around Leonida.",
+    "Register each one in the Scooter Bros app.",
+    "Repeat for 10 vehicles.",
+    "The trophy pops on the tenth registration."
+   ],
+   "kind": "money",
+   "missable": "no",
+   "missable_note": "Still available after the story ends — nothing here is missable, but there is no mission replay or New Game Plus, so keep manual saves from the start of each chapter as insurance.",
+   "difficulty": 1,
+   "time": "30 min",
+   "sources": [
+    "Official trophy description — PlayStation 5 trophy list, via make.fun starter list 2026-11-18",
+    "GTA 6 trophy list as reported 18–19 Nov 2026, cross-checked vs playday.one + outputlag"
+   ]
+  }
+ ]
+}
